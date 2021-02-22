@@ -9,3 +9,12 @@ body {
     font-family: Helvetica, Arial, sans-serif; }
 
     /* I'm a CSS comment! */
+
+    /* apply styles to <header> */
+    header {
+
+
+padding: 20px 35ps;
+background-color: #39a6b2
+
+ }
